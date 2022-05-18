@@ -1,9 +1,9 @@
-<img align="center" src="https://raw.githubusercontent.com/dwarffairy/dwarffairy/main/header_img.png" />
+<img align="center" src="https://raw.githubusercontent.com/dragobubba/dragobubba/main/header_img.png" />
 
 <p align='center'>
-  <img alt='dwarffairy's Github followers' src="https://img.shields.io/github/followers/dwarffairy?label=Follow&style=flat&color=yellow&logo=github" />
-  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dwarffairy?style=flat&logo=github&color=ff69b4" />
-  <img alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=dwarffairy.dwarffairy&style=for-the-badge" />
+  <img alt='dragobubba's Github followers' src="https://img.shields.io/github/followers/dragobubba?label=Follow&style=flat&color=yellow&logo=github" />
+  <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dragobubba?style=flat&logo=github&color=ff69b4" />
+  <img alt="GitHub Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=dragobubba.dragobubba&style=for-the-badge" />
 </p>
 
 ## Where to find me
