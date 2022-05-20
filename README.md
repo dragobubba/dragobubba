@@ -1,5 +1,3 @@
-<img align="center" src="https://raw.githubusercontent.com/dragobubba/dragobubba/main/header_img.png" />
-
 <p align='center'>
   <img alt='dragobubba's Github followers' src="https://img.shields.io/github/followers/dragobubba?label=Follow&style=flat&color=yellow&logo=github" />
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/dragobubba?style=flat&logo=github&color=ff69b4" />
