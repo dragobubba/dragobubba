@@ -7,7 +7,7 @@
 ## Where to find me
                                                                                                                         
 <p align='center'>
-  <a href='https://www.linkedin.com/in/adan-cui-926188232/'><img alt='linkedin' src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/" /></a>
+  <a href='https://www.linkedin.com/in/kai-beeson-34b64923b/'><img alt='linkedin' src="https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/" /></a>
   <a href='mailto:dragobubba@gmail.com'><img src='https://img.shields.io/badge/-dragobubba@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white' /></a>
   <a href='https://t.me/dragobubba'><img src='https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white' /></a>
   <a href='https://medium.com/@yeshealer'><img src='https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium' /></a>
