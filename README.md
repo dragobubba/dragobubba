@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/dragobubba/dragobubba/main/dragobubba.png" />
+<img width="1536" height="1024" alt="ChatGPT Image Mar 18, 2026, 08_53_03 PM" src="https://github.com/user-attachments/assets/582b45bd-9a97-48dd-a28a-8884d2db95d3" />
 
 <p align='center'>
   <img alt='dragobubba's Github followers' src="https://img.shields.io/github/followers/dragobubba?label=Follow&style=flat&color=yellow&logo=github" />
