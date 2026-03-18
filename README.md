@@ -46,3 +46,26 @@
 ![Supabase](https://img.shields.io/badge/Supabase-000?style=for-the-badge&logo=supabase)
 ![Stripe](https://img.shields.io/badge/Stripe-000?style=for-the-badge&logo=stripe)
 
+### ⛓️ Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-000?style=for-the-badge&logo=solidity)
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust)
+![Ethereum](https://img.shields.io/badge/Ethereum-000?style=for-the-badge&logo=ethereum)
+![Hardhat](https://img.shields.io/badge/Hardhat-000?style=for-the-badge)
+![Foundry](https://img.shields.io/badge/Foundry-000?style=for-the-badge)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-000?style=for-the-badge&logo=ethereum)
+![Web3.js](https://img.shields.io/badge/Web3.js-000?style=for-the-badge)
+![Wagmi](https://img.shields.io/badge/Wagmi-000?style=for-the-badge)
+![Alchemy](https://img.shields.io/badge/Alchemy-000?style=for-the-badge)
+![Infura](https://img.shields.io/badge/Infura-000?style=for-the-badge)
+![IPFS](https://img.shields.io/badge/IPFS-000?style=for-the-badge&logo=ipfs)
+
+### 🤖 AI / ML
+![R](https://img.shields.io/badge/R-000?style=for-the-badge&logo=r)
+![PyTorch](https://img.shields.io/badge/PyTorch-000?style=for-the-badge&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-000?style=for-the-badge&logo=tensorflow)
+![Keras](https://img.shields.io/badge/Keras-000?style=for-the-badge&logo=keras)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-000?style=for-the-badge&logo=scikitlearn)
+![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-000?style=for-the-badge&logo=huggingface)
+![LangChain](https://img.shields.io/badge/LangChain-000?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-000?style=for-the-badge)
